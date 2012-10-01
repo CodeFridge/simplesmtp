@@ -25,7 +25,7 @@
     ],
     "dependencies": {
         "rai": "*",
-        "xoauth2": "*"
+        "xoauth2": "git+ssh://git@github.com:CodeFridge/xoauth2.git#hotfix/content_length"
     },
     "devDependencies": {
         "nodeunit": "*",
