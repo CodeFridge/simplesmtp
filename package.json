@@ -25,7 +25,7 @@
     ],
     "dependencies": {
         "rai": "~0.1",
-        "xoauth2": "~0.1"
+        "xoauth2": "git+ssh://git@github.com:CodeFridge/xoauth2.git#v0.1.8_httpfix"
     },
     "devDependencies": {
         "nodeunit": "*",
